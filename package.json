@@ -1,5 +1,5 @@
 {
-  "name": "str-tools",
+  "name": "@imnull/str",
   "version": "1.0.0",
   "description": "Tools for string",
   "main": "index.js",
