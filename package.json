@@ -1,0 +1,22 @@
+{
+  "name": "str-tools",
+  "version": "1.0.0",
+  "description": "Tools for string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnull/str-tools.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "imnull@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imnull/str-tools/issues"
+  },
+  "homepage": "https://github.com/imnull/str-tools#readme"
+}
